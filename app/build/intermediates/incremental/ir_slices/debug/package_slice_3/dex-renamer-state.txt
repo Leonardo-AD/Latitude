@@ -1,4 +1,4 @@
-#Thu Sep 06 18:35:38 GFT 2018
-base.0=C\:\\Users\\tarcisio\\AndroidStudioProjects\\LatitudeLongitude\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+#Sun Sep 23 10:04:42 GFT 2018
+base.0=C\:\\Users\\tarcisio\\Latitude\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
 path.0=classes.dex
 renamed.0=classes.dex

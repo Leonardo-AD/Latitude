@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\tarcisio\\AndroidStudioProjects\\LatitudeLongitude\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
+            "outputFile": "C:\\Users\\tarcisio\\Latitude\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
                     "source": "C:\\Users\\tarcisio\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\e64f5a31654081c97852a52b460dde13\\res\\values-hu\\values.xml",
